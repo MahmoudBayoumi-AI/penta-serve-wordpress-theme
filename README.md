@@ -1,9 +1,10 @@
 # ❄️ PENTA SERVE KSA — Custom WordPress Theme
 
-![WordPress](https://shields.io)
-![PHP](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
+![WordPress](https://badgen.net)
+![PHP](https://badgen.net)
+![CSS3](https://badgen.net)
+![JavaScript](https://badgen.net)
+
 
 A custom, lightweight, and fully responsive WordPress theme built from scratch for **PENTA SERVE KSA** — a specialized company in developing commercial refrigeration and freezing warehouse solutions in the Kingdom of Saudi Arabia.
 
