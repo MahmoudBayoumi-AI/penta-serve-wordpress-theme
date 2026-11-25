@@ -6,7 +6,7 @@
 A custom, lightweight, and fully responsive WordPress theme built from scratch for **PENTA SERVE KSA** — a specialized company in developing commercial refrigeration and freezing warehouse solutions in the Kingdom of Saudi Arabia.
 
 🌐 **Live Website:** [https://pentaserveksa.com](https://pentaserveksa.com)
-![PENTA SERVE KSA Preview](screenshot.png) 
+![PENTA SERVE KSA Preview](web_screenshot.png) 
 
 ---
 
